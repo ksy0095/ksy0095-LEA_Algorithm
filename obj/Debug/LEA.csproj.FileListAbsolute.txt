@@ -1,0 +1,6 @@
+C:\Users\ksy\source\repos\LEA\LEA\bin\Debug\LEA.dll
+C:\Users\ksy\source\repos\LEA\LEA\bin\Debug\LEA.pdb
+C:\Users\ksy\source\repos\LEA\LEA\obj\Debug\LEA.csproj.CoreCompileInputs.cache
+C:\Users\ksy\source\repos\LEA\LEA\obj\Debug\LEA.dll
+C:\Users\ksy\source\repos\LEA\LEA\obj\Debug\LEA.pdb
+C:\Users\ksy\source\repos\LEA\LEA\obj\Debug\LEA.csproj.AssemblyReference.cache
